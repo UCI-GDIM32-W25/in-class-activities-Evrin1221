@@ -1,12 +1,11 @@
 # GDIM32 In Class Activities
-## Instructions
-Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
+## W1
 
-## Activity 1
+### Activity 1
 
 One piece of advice: Playtest your build not just on the engine
 
-## Activity 2
+### Activity 2
 
 
 Q1:10
@@ -26,7 +25,7 @@ Q7:You need to use the variable name for the transform. this code is using the d
 Q8:_playerTransform
 
 
-## Activity 3
+### Activity 3
 
 
 https://docs.google.com/document/d/1MR5s2MD1t6kFIP1PlwggtskA_hNJPmX335sJPT-4Uuw/edit?tab=t.0 
