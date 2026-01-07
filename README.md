@@ -31,11 +31,3 @@ Q8:_playerTransform
 
 https://docs.google.com/document/d/1MR5s2MD1t6kFIP1PlwggtskA_hNJPmX335sJPT-4Uuw/edit?tab=t.0 
 
-Hit enter TWICE to create a new line.
-
-
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
-
-
-Remove all placeholder text in order to get full credit for README file formatting.
