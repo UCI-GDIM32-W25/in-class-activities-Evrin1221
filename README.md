@@ -36,10 +36,12 @@ https://docs.google.com/document/d/1MR5s2MD1t6kFIP1PlwggtskA_hNJPmX335sJPT-4Uuw/
 
 ### Activity 1
 
-.
+![alt text](<Screenshot 2026-01-13 173728.png>)
 
 ### Activity 2
 
 [Progress on MG2](https://github.com/UCI-GDIM32-W25/mg2-oop-review-Evrin1221/commit/bd1e6c21900eb446c6d0fbc1c813f3f2a43521d2)
+
+I set up the player and coins and their components. I started a little on the player movement code and I made the canvas for the UI
 
 
