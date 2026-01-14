@@ -30,3 +30,16 @@ Q8:_playerTransform
 
 https://docs.google.com/document/d/1MR5s2MD1t6kFIP1PlwggtskA_hNJPmX335sJPT-4Uuw/edit?tab=t.0 
 
+
+
+## W2
+
+### Activity 1
+
+.
+
+### Activity 2
+
+{https://github.com/UCI-GDIM32-W25/mg2-oop-review-Evrin1221/commit/bd1e6c21900eb446c6d0fbc1c813f3f2a43521d2}  
+
+
