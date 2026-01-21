@@ -44,4 +44,12 @@ https://docs.google.com/document/d/1MR5s2MD1t6kFIP1PlwggtskA_hNJPmX335sJPT-4Uuw/
 
 I set up the player and coins and their components. I started a little on the player movement code and I made the canvas for the UI
 
+## W3
 
+### Activity 1 & 2
+
+Romarick Anderson
+
+### Activity 3
+
+![alt text](<Screenshot 2026-01-20 180036.png>)
