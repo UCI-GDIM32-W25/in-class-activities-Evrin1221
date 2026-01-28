@@ -64,3 +64,8 @@ partner: Romarick Anderson
 Adding more locators makes it run much slower. probably because all the information is being sent multiple times
 
 
+### Activity 2
+
+
+![alt text](<Screenshot 2026-01-27 183402.png>)
+
