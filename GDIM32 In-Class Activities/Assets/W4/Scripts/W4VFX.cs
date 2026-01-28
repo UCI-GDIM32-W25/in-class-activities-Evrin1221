@@ -10,6 +10,11 @@ public class W4VFX : MonoBehaviour
     // use the Locator to find the Pigeon
     // then, subscribe the HandlePigeonCoo method to the Pigeon coo event
 
+    public void Start()
+    {
+        //can only access static (bruh i wrote this in mr ems hw quizzes 100 times)
+        Locator.Instance.player.shoot += HandlePigeonCoo; //in these u dont add method names
+    }
 
 
 

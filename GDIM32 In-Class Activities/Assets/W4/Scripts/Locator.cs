@@ -5,7 +5,7 @@ using UnityEngine;
 public class Locator : MonoBehaviour
 {
     public static Locator Instance {  get; private set; }
-    public W4Pigeon Player {  get; private set; }
+    public W4Pigeon player {  get; private set; }
     void Awake()
     {
         if (Instance != null&& Instance != this)
@@ -13,8 +13,10 @@ public class Locator : MonoBehaviour
             Destroy(this);
             return;
         }
+
+        Instance = this;
         GameObject pigeon = GameObject.FindWithTag("Player");
-        Player = pigeon.GetComponent<W4Pigeon>();
+        player = pigeon.GetComponent<W4Pigeon>();
     }
 
     // Update is called once per frame
