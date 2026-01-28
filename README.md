@@ -69,3 +69,8 @@ Adding more locators makes it run much slower. probably because all the informat
 
 ![alt text](<Screenshot 2026-01-27 183402.png>)
 
+
+### Activity 3
+
+[Progress on MG4](https://github.com/Evrin1221/MG4/commit/d8abf3e29b11a7188c097fefad9b2b85db8bcf95)
+
