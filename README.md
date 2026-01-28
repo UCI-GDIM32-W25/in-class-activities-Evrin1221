@@ -53,3 +53,14 @@ Romarick Anderson
 ### Activity 3
 
 ![alt text](<Screenshot 2026-01-20 180036.png>)
+
+## W4
+
+### Activity 0
+partner: Romarick Anderson
+
+### Activity 1
+
+Adding more locators makes it run much slower. probably because all the information is being sent multiple times
+
+
