@@ -81,3 +81,21 @@ Adding more locators makes it run much slower. probably because all the informat
 
 We think the Ibreakable is useful, but we also think it'd be better to have a class that calculates the damage for each object because it feels redundant to have to do it for every object. 
 
+### Activity 2
+
+
+Model is the data, the view is the UI and the characters, and the controller is the code that modifies the damage
+
+### Activity 3
+
+#### Scenario 1
+
+#### Scenario 2
+
+#### Scenario 3
+
+### Activity 4
+
+Attendance: Romarick Anderson, Ransom Liu, Evrin Lee
+
+[Project proposal](https://docs.google.com/document/d/1yaFfMOREKQ-uBypP_ClrG3IaEjA-R7tuW3AvkSeLdno/edit?tab=t.0#heading=h.y4j3q551ojs1) 
