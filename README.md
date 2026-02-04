@@ -74,3 +74,10 @@ Adding more locators makes it run much slower. probably because all the informat
 
 [Progress on MG4](https://github.com/Evrin1221/MG4/commit/d8abf3e29b11a7188c097fefad9b2b85db8bcf95)
 
+## W5
+
+### Activity 1
+
+
+We think the Ibreakable is useful, but we also think it'd be better to have a class that calculates the damage for each object because it feels redundant to have to do it for every object. 
+
