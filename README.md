@@ -90,9 +90,15 @@ Model is the data, the view is the UI and the characters, and the controller is 
 
 #### Scenario 1
 
+make prefabs with scriptable objects on them (can add sprites and stuff too). Scriptable object data can have start time, note type etc. 
+
 #### Scenario 2
 
+The model is the data regarding each player, such as their account, which character they have selected, which side they're on. View would be what we can see, such as the item we have equiped, the bar that shows the items available to the player, the bar that shows who's alive and who's dead. The controller would be the code that handles interactions, for example dealing damage, item interactions with each other, and player movement
+
 #### Scenario 3
+
+State of growth of the plant, state of the action the player is doing can be handled using state machines.
 
 ### Activity 4
 
