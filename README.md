@@ -105,3 +105,25 @@ State of growth of the plant, state of the action the player is doing can be han
 Attendance: Romarick Anderson, Ransom Liu, Evrin Lee
 
 [Project proposal](https://docs.google.com/document/d/1yaFfMOREKQ-uBypP_ClrG3IaEjA-R7tuW3AvkSeLdno/edit?tab=t.0#heading=h.y4j3q551ojs1) 
+
+## W6
+
+Speaker: Corey Lanham
+
+Notes:
+
+- One of the best ways to get a job in narrative writing for games is to start as a different position on a development team, and interact with the writers as much as possible
+- Creative writing and writing for games is very different (at least a lot more than I originally thought)
+- writers need to communicate a LOT with the designers
+- narrative writers are NOT the director - they have less power in deciding the narrative direction of the game than you'd think
+
+
+Speaker: Stephen Coan
+
+Notes:
+
+- Technical artists basically make it easier for artists to get their visions/creations into a game
+- a key skill you need to have is the ability to learn and jump into challenges
+- he also showed us how he identified a performance issue in a 3d scene where someone had imported a scaled down version of a different scene and it was completely hidden from sight
+- a good place to start to get into technical art is to learn blender (specifically shaders)
+- a good way to build a portfolio for this role is to just try to recreate cool art related things (that involve coding ofc)
