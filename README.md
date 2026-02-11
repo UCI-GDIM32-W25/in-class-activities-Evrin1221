@@ -108,9 +108,9 @@ Attendance: Romarick Anderson, Ransom Liu, Evrin Lee
 
 ## W6
 
-Speaker: Corey Lanham
+### Talk: Narrative writing for games Speaker: Corey Lanham
 
-Notes:
+#### Notes:
 
 - One of the best ways to get a job in narrative writing for games is to start as a different position on a development team, and interact with the writers as much as possible
 - Creative writing and writing for games is very different (at least a lot more than I originally thought)
@@ -118,9 +118,9 @@ Notes:
 - narrative writers are NOT the director - they have less power in deciding the narrative direction of the game than you'd think
 
 
-Speaker: Stephen Coan
+### Talk: Technical artist's role in games Speaker: Stephen Coan
 
-Notes:
+#### Notes:
 
 - Technical artists basically make it easier for artists to get their visions/creations into a game
 - a key skill you need to have is the ability to learn and jump into challenges
