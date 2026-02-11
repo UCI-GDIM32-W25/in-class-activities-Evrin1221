@@ -55,9 +55,9 @@ public class Axe : Item, IBreakable {
 	
 	public  void Damage (float damage) {
 		_durability -= damage;
+		if(_durability <= 0) {
 		Debug.Log("axe now has " + _durability + " durability remaining");
 		
-		if(_durability <= 0) {
 			Break();
 		}
 	}
