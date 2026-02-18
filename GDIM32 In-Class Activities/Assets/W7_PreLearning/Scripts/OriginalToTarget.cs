@@ -7,7 +7,10 @@ public class OriginalToTarget : MonoBehaviour
 
     private void Start ()
     {
-        // Vector3 displacementToTarget = ____ - ____;
-        // _original.position += displacementToTarget;
+         Vector3 displacementToTarget = _original.position - _target.position;
+        Debug.Log(displacementToTarget);
+        _original.position += displacementToTarget;
+
+        
     }
 }

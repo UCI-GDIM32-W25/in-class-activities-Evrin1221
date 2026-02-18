@@ -127,3 +127,24 @@ Attendance: Romarick Anderson, Ransom Liu, Evrin Lee
 - he also showed us how he identified a performance issue in a 3d scene where someone had imported a scaled down version of a different scene and it was completely hidden from sight
 - a good place to start to get into technical art is to learn blender (specifically shaders)
 - a good way to build a portfolio for this role is to just try to recreate cool art related things (that involve coding ofc)
+
+
+## W7
+
+### Activity 1
+
+#### Notes:
+
+- Raycast used to see line of sight, and how far the subject can see, and if its line of sight is being obstructed
+- Can use a FSM to code the duck's actions depending on its state (wandering and pursuing)
+    - there's
+
+### Activity 2
+
+Attendance: Romarick Anderson, Evrin Lee
+
+### Activity 3
+
+### Activity 4
+
+### Activity 5
