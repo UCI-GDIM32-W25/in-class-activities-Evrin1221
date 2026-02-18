@@ -143,7 +143,9 @@ Attendance: Romarick Anderson, Ransom Liu, Evrin Lee
 - Raycast returns a boolean (true if it hit something)
 - Sphere casts can be used to see if there's something obstructing the subject's path
     - Can use if you want npcs to avoid obstacles
-    - Can focus on an area within the sphere rather than a straight line/ray
+    - Can focus on an area within the sphere rather than a straight line/ray (raycast might not be very accurate if obstacles are much taller or shorter)
+- Casting can be more useful for debugging than debug.log
+
 
 
 ### Activity 2
@@ -151,6 +153,8 @@ Attendance: Romarick Anderson, Ransom Liu, Evrin Lee
 Attendance: Romarick Anderson, Evrin Lee
 
 ### Activity 3
+
+![alt text](<Screenshot 2026-02-17 174608.png>)
 
 ### Activity 4
 
