@@ -141,7 +141,10 @@ Attendance: Romarick Anderson, Ransom Liu, Evrin Lee
 - A Raycast is basically a line drawn in the scene and seeing if it hit something (in this case it will only go as far as the line of sight max distance)
     - (Gizmoz.DrawRay)
 - Raycast returns a boolean (true if it hit something)
-- 
+- Sphere casts can be used to see if there's something obstructing the subject's path
+    - Can use if you want npcs to avoid obstacles
+    - Can focus on an area within the sphere rather than a straight line/ray
+
 
 ### Activity 2
 
