@@ -158,4 +158,6 @@ Attendance: Romarick Anderson, Evrin Lee
 
 ### Activity 4
 
+[Link to Trello board](https://trello.com/invite/b/69951aa57a19f640467fab13/ATTIcf21601f209af46d29547e2c5f8dd86c73678BD7/gdim-32-final)
+
 ### Activity 5
