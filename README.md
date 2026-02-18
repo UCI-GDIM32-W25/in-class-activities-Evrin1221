@@ -161,3 +161,6 @@ Attendance: Romarick Anderson, Evrin Lee
 [Link to Trello board](https://trello.com/invite/b/69951aa57a19f640467fab13/ATTIcf21601f209af46d29547e2c5f8dd86c73678BD7/gdim-32-final)
 
 ### Activity 5
+[Work done today](https://github.com/random0624/GDIM32-Final/commit/6349b70166a95c4aba69a05ace51f64f1b8fd1b4)
+
+I found an asset for the lion npcs, and added a plane that should determine the size for the entire arena. 
