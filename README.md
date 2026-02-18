@@ -137,7 +137,11 @@ Attendance: Romarick Anderson, Ransom Liu, Evrin Lee
 
 - Raycast used to see line of sight, and how far the subject can see, and if its line of sight is being obstructed
 - Can use a FSM to code the duck's actions depending on its state (wandering and pursuing)
-    - there's
+- Vectors are used to determine the line of sight
+- A Raycast is basically a line drawn in the scene and seeing if it hit something (in this case it will only go as far as the line of sight max distance)
+    - (Gizmoz.DrawRay)
+- Raycast returns a boolean (true if it hit something)
+- 
 
 ### Activity 2
 
