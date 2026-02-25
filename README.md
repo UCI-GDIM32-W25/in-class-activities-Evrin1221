@@ -186,8 +186,21 @@ Playtesting goal: everything we did for this week functions (movement, lion chas
 Playtesting captain: Evrin
 
 Playtesting notes:
-- whys the font suddenly big
+- collision w the rocks is weird rn
+- collision w lion is weird rn
+- lion trigger distance could be bigger
+- lion might be a little too fast
+
 
 ### Activity 4
 
+We did around 90 percent of what we planned for this week, and we think we're on track to finish what we put in the proposal by the time it's due. 
+
+This week I will be adding raycasting to the lion, make the life count UI, add an animation to the lion, and add some decorative lighting. I will also be doing the meat throw mechanic
+
+
 ### Activity 5
+
+[changes made in class w8] (https://github.com/random0624/GDIM32-Final/commit/858434e2a9847b7e65af1278273505788d2ff899)
+
+I added a coloured directional light and a red spotlight that follows the lion
