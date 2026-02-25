@@ -201,6 +201,6 @@ This week I will be adding raycasting to the lion, make the life count UI, add a
 
 ### Activity 5
 
-[changes made in class w8] (https://github.com/random0624/GDIM32-Final/commit/858434e2a9847b7e65af1278273505788d2ff899)
+(changes made in class w8) [https://github.com/random0624/GDIM32-Final/commit/858434e2a9847b7e65af1278273505788d2ff899]
 
 I added a coloured directional light and a red spotlight that follows the lion
