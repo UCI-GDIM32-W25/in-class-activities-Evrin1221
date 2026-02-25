@@ -164,3 +164,30 @@ Attendance: Romarick Anderson, Evrin Lee
 [Work done today](https://github.com/random0624/GDIM32-Final/commit/6349b70166a95c4aba69a05ace51f64f1b8fd1b4)
 
 I found an asset for the lion npcs, and added a plane that should determine the size for the entire arena. 
+
+## W8
+
+### Activity 1
+
+- the shader must match the project pipeline !!
+- post processing= shaders that affect look of entire screen
+- use post process volume component in a post processing game object
+    - has cool stuff like colour grading settings
+- need to download post processing package
+
+### Activity 2
+
+Attendance: Ransom Liu, Romarick Anderson, Evrin Lee
+
+### Activity 3
+
+Playtesting goal: everything we did for this week functions (movement, lion chasing, and can click on door to interact with it(it will disappear))
+
+Playtesting captain: Evrin
+
+Playtesting notes:
+- 
+
+### Activity 4
+
+### Activity 5
