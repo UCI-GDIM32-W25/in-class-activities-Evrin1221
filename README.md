@@ -186,7 +186,7 @@ Playtesting goal: everything we did for this week functions (movement, lion chas
 Playtesting captain: Evrin
 
 Playtesting notes:
-- 
+- whys the font suddenly big
 
 ### Activity 4
 
