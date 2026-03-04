@@ -204,3 +204,24 @@ This week I will be adding raycasting to the lion, make the life count UI, add a
 [changes made in class w8](https://github.com/random0624/GDIM32-Final/commit/858434e2a9847b7e65af1278273505788d2ff899)
 
 I added a coloured directional light and a red spotlight that follows the lion
+
+## W9
+
+### Activity 1
+
+Notes:
+- An architectural solution that scales well (when program is handling LOTS of data)
+    - is performant
+    - is easy for others to add more data
+
+### Activity 2
+
+Attendance: Evrin Lee, Ransom Liu, Romarick Anderson
+
+### Activity 3
+
+
+
+### Activity 4
+
+### Activity 5
