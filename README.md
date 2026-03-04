@@ -213,6 +213,12 @@ Notes:
 - An architectural solution that scales well (when program is handling LOTS of data)
     - is performant
     - is easy for others to add more data
+- scaling is important so that people (including yourself) can quickly understand what's going on
+
+Branching Dialogue demo:
+- have each dialogue option/node be a scriptable object
+    - you're not saying in code what the character is saying, you're saying in DATA
+- 
 
 ### Activity 2
 
@@ -220,8 +226,15 @@ Attendance: Evrin Lee, Ransom Liu, Romarick Anderson
 
 ### Activity 3
 
+Playtesting captain: Evrin Lee
 
+Playtesting goal: player can move around and experience all currently existing interaction without confusion, or running into bugs
+
+Notes:
+- 
 
 ### Activity 4
+
+
 
 ### Activity 5
