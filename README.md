@@ -238,6 +238,6 @@ Notes:
 
 ### Activity 4
 
-We are mostly on track to finish the game as it is, we might have to leave out one feature, but it doesn't change the gameplay much (there's a mechanic where you can temporarily hide in a bush)
+We are mostly on track to finish the game as it is, we might have to leave out one feature, but it doesn't change the gameplay much (there's a mechanic where you can temporarily hide in a bush). We just need to add all the game objects we've already coded, add more dialogue for the tutorial npc, and just a few more mechanics that should take the same amount of time we took to do everything we did for this week, so we are on track. I think the scope of the game is good.
 
 ### Activity 5
