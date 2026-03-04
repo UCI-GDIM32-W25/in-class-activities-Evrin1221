@@ -241,3 +241,7 @@ Notes:
 We are mostly on track to finish the game as it is, we might have to leave out one feature, but it doesn't change the gameplay much (there's a mechanic where you can temporarily hide in a bush). We just need to add all the game objects we've already coded, add more dialogue for the tutorial npc, and just a few more mechanics that should take the same amount of time we took to do everything we did for this week, so we are on track. I think the scope of the game is good.
 
 ### Activity 5
+
+[Week 9 changes made in class](https://github.com/random0624/GDIM32-Final/commit/d9e941ecca55ed435fdc1ced55ffcde06fee13a9)
+
+I added a spotlight that follows the pigeon and I started fixing the bug with the lion (I found out that CheckDistance() is calling the method that switches the state to wandering for every frame the player isn't in range and I'm now working on separating the two situations)
