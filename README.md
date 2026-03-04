@@ -218,7 +218,7 @@ Notes:
 Branching Dialogue demo:
 - have each dialogue option/node be a scriptable object
     - you're not saying in code what the character is saying, you're saying in DATA
-- 
+
 
 ### Activity 2
 
@@ -231,10 +231,13 @@ Playtesting captain: Evrin Lee
 Playtesting goal: player can move around and experience all currently existing interaction without confusion, or running into bugs
 
 Notes:
-- 
+- lion kinda buggy
+- make it more obvious where the pigeon is (add spotlight)
+- add all the lions (make them more threatening)
+- place all collectables & doors in places that actually make the game fun
 
 ### Activity 4
 
-
+We are mostly on track to finish the game as it is, we might have to leave out one feature, but it doesn't change the gameplay much (there's a mechanic where you can temporarily hide in a bush)
 
 ### Activity 5
