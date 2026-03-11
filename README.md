@@ -245,3 +245,25 @@ We are mostly on track to finish the game as it is, we might have to leave out o
 [Week 9 changes made in class](https://github.com/random0624/GDIM32-Final/commit/d9e941ecca55ed435fdc1ced55ffcde06fee13a9)
 
 I added a spotlight that follows the pigeon and I started fixing the bug with the lion (I found out that CheckDistance() is calling the method that switches the state to wandering for every frame the player isn't in range and I'm now working on separating the two situations)
+
+## W10
+
+### Activity 1
+
+Attendance: Romarick Anderson, Evrin Lee
+
+### Activity 2
+
+Playtesting Captain: Evrin Lee
+
+Playtesting goal: I lion significantly smoother than last time
+
+Notes:
+
+- 
+
+### Activity 3
+
+We're a little bit behind because one of our members aren't here today plus one (me) was sick last night, but it's recoverable. We're only 1 or 2 tasks behind what we wanted done by today, so we should be able to finish the game very close to what we originally planned. I think the scope of the game as we planned it was a little ambitious, but definitely doable.
+
+### Activity 4
