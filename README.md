@@ -260,10 +260,16 @@ Playtesting goal: I lion significantly smoother than last time
 
 Notes:
 
-- 
+- The lion doesn't spasm like last time but it sometimes gets stuck in the rocks
+- There are places (especially between the rocks and the fence) where the player falls through
+- Player movement, inventory system, dialogue interaction works smoothly
 
 ### Activity 3
 
 We're a little bit behind because one of our members aren't here today plus one (me) was sick last night, but it's recoverable. We're only 1 or 2 tasks behind what we wanted done by today, so we should be able to finish the game very close to what we originally planned. I think the scope of the game as we planned it was a little ambitious, but definitely doable.
 
 ### Activity 4
+
+[Wk 10 changes made in class](https://github.com/random0624/GDIM32-Final/commit/bb6891c53ae8ffe7e5c4e878dd1c120d7d82aaf6)
+
+I finished the life count and game over system. When the lion collides with the player, they lose a life, it is updated in the UI. When they get to 0 lives, there's a game over UI and the game freezes
